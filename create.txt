@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-for test
-=======
 sdfs
 
 sdfs
->>>>>>> parent of 6e55da2... test
+
