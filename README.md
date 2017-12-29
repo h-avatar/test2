@@ -9,5 +9,3 @@ _italic text_
 paragraf
 
 ok
-
-salam
