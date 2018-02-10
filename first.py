@@ -5,5 +5,7 @@ if int(num) % 2 == 0:
 else:
     print("Odd")
 
+ ok good
+
 
 
