@@ -7,5 +7,4 @@ else:
 	
 /* hello world */
 
-num2 = input("please enter end number: ")
 
